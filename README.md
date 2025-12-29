@@ -4,7 +4,7 @@
 
 💼 Building production systems with Spring Boot, NestJS, Angular & Next.js
 
-🔧 Currently architecting EO-Orbit-Center - a comprehensive ITSM platform with GLPI integration
+🔧 Currently architecting EO-Orbit-Center - a comprehensive ITSM platform with GLPI and Zabbix integration
 
 🌱 Expanding into AI-powered automation and modern DevOps practices
 
