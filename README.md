@@ -11,3 +11,5 @@
 📫 Connect with me: [linkedin.com/in/abderrahman-khalladi](https://www.linkedin.com/in/abderrahman-khalladi)
 
 **Tech Stack:** TypeScript • Java • PostgreSQL • Docker • RabbitMQ • Redis • Prisma • NestJS • NextJS • springboot • Angular
+
+** portfolio ** : https://abderrahmankhalladi.tech/
