@@ -12,4 +12,4 @@
 
 **Tech Stack:** TypeScript • Java • PostgreSQL • Docker • RabbitMQ • Redis • Prisma • NestJS • NextJS • springboot • Angular
 
-** portfolio ** : https://abderrahmankhalladi.tech/
+**portfolio:**  : https://abderrahmankhalladi.tech/
